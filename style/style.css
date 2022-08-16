@@ -25,6 +25,8 @@ body {
 
 header {
     background-image: url('../imagens/foto_hostel4.png'); 
+    background-position: center top;
+    background-size: cover;
     min-height: 550px;
     text-align: center;
     padding-top: 30px ;
